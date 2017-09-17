@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent Problem</string>
+    <string name="giai_pt">Giải phương trình bậc nhất</string>
+    <string name="ket_qua">Kết quả</string>
+    <string name="nhap_a">Nhập số a:</string>
+    <string name="nhap_b">Nhập số b:</string>
+    <string name="back">Quay lại</string>
+    <string name="result">Kết quả giải phương trình bậc nhất</string>
+</resources>
